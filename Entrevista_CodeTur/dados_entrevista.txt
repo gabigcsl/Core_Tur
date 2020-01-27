@@ -1,0 +1,50 @@
+Perguntas:
+
+- o site seria so para divulgação ou também compra de pacotes?
+R:o site é so para divulgação, vendas por telefone/presencialmente
+
+-deseja que tenha artigos sobre os lugares mais visitados do mundo? (o objetivo é chamar o cliente para mais compras)
+R:sim
+
+-a venda dos pacotes é exclusivamente para desenvolvedores?
+R:sim, o objetivo é que desenvolvedores conheçam empresas fora do país
+
+-gostaria que tivesse comentarios dos clientes sobre a empresa/pacote que escolheram?
+R:sim, ja tem formulario que o cliente preenche ,o cliente gostaria de copiar e colar no site
+
+-cores de preferencia?
+R:
+
+------------------------------------------------------------
+
+-link para email direcionando e telefone 
+-aplicativo e web
+-autenticação (1 admin)
+-ja tem dominio 
+-a empresa zela pela qualidade de seu serviço 
+-ja tem departamento voltado para redes sociais
+-viagens voltadas para eua,europa e canada
+-foco é desenvolvedores do brasil para outros países
+-objetivo de atingir número maior de clientes
+-QR code para baixar app
+-tipos de pagamento: boleto, cartão, dinheiro (deixar na descrição)
+-algo simples e objetivo
+-tem logo (se não gostar pode editar)
+-ja tem site com algumas funcionalidades simples (html e css)
+-encaminha email com os termos sobre a compra 
+-referencia: booking, expedia 
+- sistema que tenha login para que o proprio cliente pode editar
+-somente administrador acessa o sistema 
+-app aberto 
+-mostrar só os pacotes ativos 
+-deseja trocar planfeto por banner com QR code nos eventos 
+-o cliente quer colocar as informações da cada viagem
+
+-----------------------------------------------------------
+
+perguntas não feitas
+-tem conta na playstore
+
+-------------------------------------------
+regra de negocio: qunado coloca uma condição para que aconteça
+-quem vai hospedar o site
