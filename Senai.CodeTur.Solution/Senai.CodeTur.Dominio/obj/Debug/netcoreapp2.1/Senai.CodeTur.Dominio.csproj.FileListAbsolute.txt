@@ -1,0 +1,9 @@
+C:\Users\fic\source\repos\BackEnd\Senai.CodeTur.Solution\Senai.CodeTur.Dominio\obj\Debug\netcoreapp2.1\Senai.CodeTur.Dominio.csprojAssemblyReference.cache
+C:\Users\fic\source\repos\BackEnd\Senai.CodeTur.Solution\Senai.CodeTur.Dominio\obj\Debug\netcoreapp2.1\Senai.CodeTur.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\fic\source\repos\BackEnd\Senai.CodeTur.Solution\Senai.CodeTur.Dominio\obj\Debug\netcoreapp2.1\Senai.CodeTur.Dominio.AssemblyInfoInputs.cache
+C:\Users\fic\source\repos\BackEnd\Senai.CodeTur.Solution\Senai.CodeTur.Dominio\obj\Debug\netcoreapp2.1\Senai.CodeTur.Dominio.AssemblyInfo.cs
+C:\Users\fic\source\repos\BackEnd\Senai.CodeTur.Solution\Senai.CodeTur.Dominio\bin\Debug\netcoreapp2.1\Senai.CodeTur.Dominio.deps.json
+C:\Users\fic\source\repos\BackEnd\Senai.CodeTur.Solution\Senai.CodeTur.Dominio\bin\Debug\netcoreapp2.1\Senai.CodeTur.Dominio.dll
+C:\Users\fic\source\repos\BackEnd\Senai.CodeTur.Solution\Senai.CodeTur.Dominio\bin\Debug\netcoreapp2.1\Senai.CodeTur.Dominio.pdb
+C:\Users\fic\source\repos\BackEnd\Senai.CodeTur.Solution\Senai.CodeTur.Dominio\obj\Debug\netcoreapp2.1\Senai.CodeTur.Dominio.dll
+C:\Users\fic\source\repos\BackEnd\Senai.CodeTur.Solution\Senai.CodeTur.Dominio\obj\Debug\netcoreapp2.1\Senai.CodeTur.Dominio.pdb

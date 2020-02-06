@@ -1,0 +1,19 @@
+apresentação 
+teste-falar sobre a importancia de teste e mostrar exemplo
+web/app
+15 a 20min
+
+a importancia dos testes:
+são importantes para a garantia do controle de qualidade do sistema, além de ser um ferramenta 
+para evitar futuros bugs, tambem diminui os custos financeiros e evitar que a reputação ds empresa
+sofra alguma queda. Achar um defeito durante o processo de desenvolvimento é mais barato do que 
+concerta-lo quando ja está tudo pronto.
+
+Pilares para um teste de qualidade:
+-funcionalidade
+-confiabilidade 
+-usabilidade
+-efiencia 
+-manutenção
+-portabilidade
+

@@ -44,7 +44,7 @@ R:
 
 perguntas não feitas
 -tem conta na playstore
+-quem vai hospedar o site
 
 -------------------------------------------
 regra de negocio: qunado coloca uma condição para que aconteça
--quem vai hospedar o site
